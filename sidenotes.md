@@ -9,4 +9,4 @@ From the [project team at Model.earth](/io).
 
 More active alternative to [chatgpt-web](https://niek.github.io/chatgpt-web).
 
-WE ARE the singularity. [BeeWEARE](../data-pipeline/research/bees/)
+[Bee the Predictor (Target=1)](../data-pipeline/research/bees/)
