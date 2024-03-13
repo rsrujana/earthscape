@@ -12,6 +12,7 @@
 
 <script>
 loadMarkdown("README.md", "readmeDiv", "_parent");
+loadMarkdown("sidenotes.md", "sidenotesDiv", "_parent");
 </script>
 
 <style>
@@ -22,6 +23,9 @@ loadMarkdown("README.md", "readmeDiv", "_parent");
 <img src="img/earthscape/header.jpg" prompt="Earthscape from outerspace" app="imagine.meta.com" style="width:100%">
 
 <div class="content contentpadding">
+  <div class="floatRight">
+    <div id="sidenotesDiv"></div>
+  </div>
   <div id="readmeDiv"></div>
 </div>
 
