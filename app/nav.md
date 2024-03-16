@@ -1,6 +1,6 @@
-[Quick Install](../app/)
+[Chatbot UI](../)
 
-[Detailed Install](../)
+[Quick Install](../app/)
 
 [Fork Our Fork](https://github.com/modelearth/earthscape/)
 

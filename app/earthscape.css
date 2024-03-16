@@ -1,0 +1,6 @@
+#headerbar, #local-header {
+  display: none !important;
+}
+.pagecolumnLower {
+  top: 0px !important;
+}
