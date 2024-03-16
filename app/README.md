@@ -50,15 +50,10 @@ Start superbase and fill secrets:
 Add some global API Keys in the file: .env.local.example
 NOTE: [Hosted site](https://www.chatbotui.com) seems to only work with a ChatGPT key.
 
-## Run NextJS on Github
-
-Next, add steps for hosting NextJS
-
-
 ## Current Errors
 
 Errors are occurring because Docker was not yet configured.
-Please add Docker setup info above.
+TO DO: Please add Docker setup info above.
 
 npm run update
 failed to connect to postgres: failed to connect to host=127.0.0.1 user=postgres database=postgres: dial error (dial tcp 127.0.0.1:54322: connect: connection refused)
@@ -68,3 +63,11 @@ failed to start docker container: Error response from daemon: Mounts denied: app
 
 supabase status
 Error response from daemon: No such container: supabase_db_chatbotui
+
+
+## Run NextJS using Github Pages
+
+Next, please add [steps for deploying NextJS to Github](https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/) without Vercel.
+
+We will also docment how to sync Github to a site hosted with [Cloudflare](https://model.earth/localsite/start/cloudflare/).
+
