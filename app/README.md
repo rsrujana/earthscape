@@ -24,7 +24,8 @@ Kudos to Ziyao!
 Fork and clone our repo from [github.com/modelearth/earthscape](https://github.com/modelearth/earthscape/)
 
 In your webroot run:
-Note, this is not conda virtual environment.
+Note, this is not the conda virtual environment.
+You might need to use a conda virtual environment if other errors occur.
 
 	git clone https://github.com/modelearth/earthscape.git earthscape &&
 	cd earthscape
