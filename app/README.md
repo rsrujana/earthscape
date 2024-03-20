@@ -24,6 +24,7 @@ Kudos to Ziyao!
 Fork and clone our repo from [github.com/modelearth/earthscape](https://github.com/modelearth/earthscape/)
 
 In your webroot run:
+Note, this is not conda virtual environment.
 
 	git clone https://github.com/modelearth/earthscape.git earthscape &&
 	cd earthscape
@@ -34,10 +35,10 @@ Start a virtual environment
 	source .env.local/bin/activate
 
 NOTE: We're using .env.local since it's aready ignored in .gitignore.
-Also, using .env resulted in: failed to load .env: read .env: is a directory.
-
+Using just .env resulted in: failed to load .env: read .env: is a directory.
 
 TO DO: Try running without virtual evironment if other install steps fail.
+TO DO: Document steps for running in conda virtual environment like Ziyao.
 
 
 ## Run update
